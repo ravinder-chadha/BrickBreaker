@@ -1,0 +1,18 @@
+#start_game{
+    height: 100px;
+    width: 200px;
+    margin-left: 45%;
+    margin-top: 25%;
+    align-items: center;
+    border-radius: 50px;
+background: #919191;
+box-shadow:  20px 20px 60px #7b7b7b,
+             -20px -20px 60px #a7a7a7;
+}
+.btn_container{
+    border-radius: 50px;
+background: #919191;
+    height: 200vh;
+/* box-shadow:  20px 20px 60px #7b7b7b,
+             -20px -20px 60px #a7a7a7; */
+}
