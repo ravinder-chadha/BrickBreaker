@@ -149,8 +149,8 @@ function draw(){
         //if no controller hit, body of canvas is hit ==> game over
         else {
             alert('GAME OVER!!');
-            // window.location='index1.html';
-            document.location.reload();
+            window.location='index1.html';
+            // document.location.reload();
         }
     }
     //bottom wall
