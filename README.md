@@ -1,5 +1,6 @@
 # Brick Breaker Game coded with Javascript
 ## All the logics and components in this game are built are built using js on canvas
+## Use it here: [Link](https://ravinder-chadha.github.io/BrickBreaker/)
 ---
 ### ScreenShots:
 <img src="screenshots/Starting.png" alt="drawing" style="width:400px;"/><br>
